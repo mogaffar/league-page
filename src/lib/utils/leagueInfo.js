@@ -21,7 +21,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
   {
-       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Mo Gaffar",
        "location": "Your Head", // (optional)
        "bio": "Commissioner, League Champion, Great Boyfriend are all great ways to describe this wonderful person.",
@@ -231,7 +231,7 @@ export const managers = [
        "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
-       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Ryan Morson",
        "location": "Kennesaw, GA", // (optional)
        "bio": "Father to a beautiful boy.",
